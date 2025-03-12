@@ -1,1 +1,1 @@
-failed commit test
+fix azure configuration
