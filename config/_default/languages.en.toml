@@ -1,0 +1,29 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "logPhile"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "Put website description here, metadata for Google (shown in searches)"
+  copyright = "&copy; 2025 Phil Boyce. All Rights Reserved."
+
+[params.author]
+  name = "Phil Boyce"
+  email = "phil@logphile.com"
+  image = "img/Phil-Cartoonized2.jpg"
+  imageQuality = 96
+  headline = "Evolving with the Cloud"
+  bio = "A little bit about you"
+   links = [
+     { linkedin = "https://linkedin.com/in/phil-boyce" },
+     { github = "https://github.com/logphile" },
+     { twitter = "https://twitter.com/LogPhile" },
+     { email = "mailto:phil@logphile.com" },     
+   ]
